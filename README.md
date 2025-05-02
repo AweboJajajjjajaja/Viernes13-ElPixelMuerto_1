@@ -32,11 +32,12 @@ Habrán 4 "casas"/"Chozas" en las cuales entrar, y cada una de ellas tendrá un 
 Y al entrar en esas "casas"/"Chozas", habria que llevar al jugador a la pantalla 6 (Mencionada en el código).
 
 -----(LO QUE SE PODRÍA HACER)-----
+-
 Claramente, para que cada vez que entres a una casa que ya has entrado, hay que guardar el valor de la casa para que en el caso de que vuelvas a entrar, no hayan campistas. 
 
 ---- (LO QUE YO PREFERIRÍA HACER, LA VERDAD)----
+-
 O, hacer que luego de entrar a una casa/choza, no puedas salir de esta hasta matar a los campistas, y una vez salgas, no puedas volver a entrar. Para ahorrarse lo de guardar el valor y todo eso. Y luego de salir, cambiar el color del cuadrado, mencionado anteriormente, a rojo.
-------------------
 
 Habría un tiempo limite de 10 minutos para matar a los 20 campistas. Al iniciar el juego, sonaria la voz de la madre de jason. Al matar a la mitad de campistas igual. Y al matarlos a todos, aparte de una pantalla de victoria, otra vez la voz de la madre.
 
@@ -44,9 +45,10 @@ A los 5 minutos, si todavía no se han matado a todos los campistas, aparecería
 Tommy Jarvis disparará al jugador/jason, y lo matará de 3 disparos.
 
 ----> VIDA DE JASON(el jugador) <----
+-
 Jason contará con un valor de vida(150), que será controlado por los disparos de Tommy Jarvis (que reciba), o, si se le escapa un campista a la hora de tratar de matarlo.
--
+
 Cuando Jason "mata" (ataca) a un campista, realmente tendria que aparecer una "barra de precisión" en la que Jason solo tiene 5 segundos para acertar en un punto aleatorio de esa barra (Como al atacar en Undertale). El punto aleatorio estará marcado por un color verde que ocupe el 10% de una barra roja. (Digamos que la barra ROJA es de 200x40, pues en un punto aleatorio de esta barra, un 20x40 será de color verde) Si el jugador le da a la zona verde, matará al campista, pero si no le da, el campista escapará y hará un pequeño daño al Jason, (Si Jason tiene 150 de vida, el campista hace 5 de daño). Incluso si el campista escapa, no saldrá de la casa/choza (O entrará. Los campistas no van a entrar/salir de las chozas, simplemente estarán en la pantalla en la que se encuentren).
--
+
 
 (CREO QUE NO ME HE DEJADO NADA, Pero en el caso de que alguien vea un error, que me avise. Llevo aproximadamente 1 hora con este texto y me he olvidado lo que he puesto. Ahora voy a poner la carpeta mencionada en las primeras lineas)
