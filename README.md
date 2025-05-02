@@ -52,3 +52,9 @@ Cuando Jason "mata" (ataca) a un campista, realmente tendria que aparecer una "b
 
 
 (CREO QUE NO ME HE DEJADO NADA, Pero en el caso de que alguien vea un error, que me avise. Llevo aproximadamente 1 hora con este texto y me he olvidado lo que he puesto. Ahora voy a poner la carpeta mencionada en las primeras lineas)
+
+--
+-
+Enlace a las imagenes
+
+[Pixilart de mi amigo](https://www.pixilart.com/didac-perales/gallery)
